@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "solar system.data.unityweb",
+"asmCodeUrl": "solar system.asm.code.unityweb",
+"asmMemoryUrl": "solar system.asm.memory.unityweb",
+"asmFrameworkUrl": "solar system.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#800020"
+}
